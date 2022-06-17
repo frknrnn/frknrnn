@@ -1,4 +1,4 @@
-# 💫About Me :
+# Hakkımda :
 2019 yılında Fatih Sultan Mehmet Vakıf Üniversitesi Biyomedikal Mühendisliği Bölümün'de lisans eğitiminin ardından, 
 2021 yılında Bilgisayar Mühendisliği Bölümün'de yüksek lisans eğitimimi tamamladım.
 Yüksek lisans eğitimimle birlikte son 3 yıldır derin öğrenme algoritmaları ile medikal verilerin sınıflandırılması, segmantasyonu ve analizi üzerine çalışmalar yürütmekteyim.
